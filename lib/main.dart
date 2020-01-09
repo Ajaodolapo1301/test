@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutte_jii/secondPage.dart';
-import 'see.dart';
+
 
 
 void main() => runApp(MyApp());
